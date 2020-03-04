@@ -1,0 +1,40 @@
+.container,{
+    background-color: grey;
+	margin: 0 auto;
+	height: 800px;
+	width: 90%;
+}
+
+.header{
+	height: 150px;
+	background-color: purple;
+	width: 100%;
+}
+
+.Nav{
+	height: 500px;
+	background-color: green;
+	width: 10%;
+	float: left;
+}
+
+.aside{
+  	height: 500px;
+	background-color: orange;
+	width: 10%;
+	float: right;
+}
+
+.section{
+	height: 500px;
+	background-color: red;
+	width: 100%;
+}
+
+.footer{
+	height: 150px;
+	background-color: pink;
+	color: blue;
+}
+
+
